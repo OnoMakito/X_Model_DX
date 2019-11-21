@@ -1,0 +1,57 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (Proto_DX_3D.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  camera.cpp
+  Cube.cpp
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(228): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(236): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(244): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(252): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(264): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(265): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(274): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\makito1735\source\repos\test_dx_3d\cube.cpp(275): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+  debug_font.cpp
+  Draw3D.cpp
+  fbx.cpp
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(243): warning C4244: '=': 'unsigned int' から 'unsigned short' への変換です。データが失われる可能性があります。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(244): warning C4244: '=': 'unsigned int' から 'unsigned short' への変換です。データが失われる可能性があります。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(245): warning C4244: '=': 'unsigned int' から 'unsigned short' への変換です。データが失われる可能性があります。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(169): warning C4100: 'ppEffectInstances': 引数は関数の本体部で 1 度も参照されません。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(167): warning C4100: 'ppAdjacency': 引数は関数の本体部で 1 度も参照されません。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(512): warning C4456: 'geometry' を宣言すると、以前のローカル宣言が隠蔽されます
+  c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(418): note: 'geometry' の宣言を確認してください
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(562): warning C4456: 'geometry' を宣言すると、以前のローカル宣言が隠蔽されます
+  c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(418): note: 'geometry' の宣言を確認してください
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(673): warning C4474: 'fscanf': 書式文字列に渡された引数の数が多すぎます
+  c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(673): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(878): warning C4474: 'fscanf': 書式文字列に渡された引数の数が多すぎます
+  c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(878): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(1031): warning C4473: 'fscanf': 書式文字列として渡された引数が不足しています
+  c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(1031): note: プレースホルダーとそのパラメーターには 3 の可変個引数が必要ですが、1 が指定されています。
+  c:\users\makito1735\source\repos\test_dx_3d\fbx.cpp(1031): note: 不足している可変個引数 2 が書式文字列 '%f' に必要です
+  Game.cpp
+  grid.cpp
+c:\users\makito1735\source\repos\test_dx_3d\grid.cpp(21): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\makito1735\source\repos\test_dx_3d\grid.cpp(25): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\makito1735\source\repos\test_dx_3d\grid.cpp(37): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\makito1735\source\repos\test_dx_3d\grid.cpp(41): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  input.cpp
+  Light.cpp
+  main.cpp
+c:\users\makito1735\source\repos\test_dx_3d\main.cpp(167): warning C4459: 'hWnd' を宣言すると、グローバル宣言が隠蔽されます
+  c:\users\makito1735\source\repos\test_dx_3d\main.cpp(57): note: 'hWnd' の宣言を確認してください
+  Model.cpp
+c:\users\makito1735\source\repos\test_dx_3d\model.cpp(47): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\makito1735\source\repos\test_dx_3d\model.cpp(88): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\makito1735\source\repos\test_dx_3d\model.cpp(127): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  MyDirect3D.cpp
+  MyTex.cpp
+  PatternAnimation.cpp
+c:\users\makito1735\source\repos\test_dx_3d\patternanimation.cpp(20): warning C4100: 'dy': 引数は関数の本体部で 1 度も参照されません。
+c:\users\makito1735\source\repos\test_dx_3d\patternanimation.cpp(20): warning C4100: 'dx': 引数は関数の本体部で 1 度も参照されません。
+c:\users\makito1735\source\repos\test_dx_3d\patternanimation.cpp(23): warning C4189: 'pattern': ローカル変数が初期化されましたが、参照されていません
+  Player.cpp
+  Sprite.cpp
+  Stage.cpp
+  system_timer.cpp
+  コードを生成中...
+  Proto_DX_3D.vcxproj -> C:\Users\makito1735\source\repos\Test_DX_3D\Debug\Test_DX_3D.exe
